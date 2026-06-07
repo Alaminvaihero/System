@@ -12,7 +12,7 @@ const OWNER_CHAT_ID = '8678824835';
 const ADMIN_PASSWORD = 'admin@alamin#4045034';
 const USER_PASSWORD = 'owner@mrvirus460#alamin';
 const PORT = process.env.PORT || 3000;
-const BASE_URL = 'https://project-production-8b84.up.railway.app';
+const BASE_URL = 'https://system-6q77.onrender.com';
 
 // ============== এক্সপ্রেস অ্যাপ ==============
 const app = express();
