@@ -6,7 +6,7 @@ const sqlite3 = require('sqlite3').verbose();
 const { open } = require('sqlite');
 
 // ============== কনফিগারেশন ==============
-const BOT_TOKEN = '8976812074:AAEdAKueQA1ViHIWdIn-x2O7-ViA5-JN1Y0';
+const BOT_TOKEN = '8852174452:AAGMY_QDLvKcOcBoRr_F9Vgn5sn4w8Mm6hg';
 const OWNER_CHAT_ID = '8678824835';
 const ADMIN_PASSWORD = 'admin@alamin#4045034';
 const USER_PASSWORD = 'owner@mrvirus460#alamin';
